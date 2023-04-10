@@ -1,6 +1,6 @@
 # AskGPT
 
-Simple console application which utilises the OpenAPI GPT-3 API based on the simple console application found [here](https://www.youtube.com/watch?v=25i-Dh6U6Cw).
+Simple console application which utilises the OpenAPI GPT-3 API based on the console application found [here](https://www.youtube.com/watch?v=25i-Dh6U6Cw).
 
 An introduction to the OpenApi API can be found [here](https://beta.openai.com/docs/api-reference/introduction).
 
